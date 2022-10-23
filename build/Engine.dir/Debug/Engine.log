@@ -1,0 +1,11 @@
+﻿  ShaderCreate.cpp
+  Sprite.cpp
+C:\Engine\Engine\src\Render\Sprite.cpp(7,40): error C2572: Render::Sprite::Sprite: переопределение аргумента по умолчанию: параметр 1
+C:\Engine\Engine\src\Render\Sprite.h(19): message : см. объявление "Render::Sprite::Sprite"
+C:\Engine\Engine\src\Render\Sprite.cpp(8,36): error C2572: Render::Sprite::Sprite: переопределение аргумента по умолчанию: параметр 2
+C:\Engine\Engine\src\Render\Sprite.h(19): message : см. объявление "Render::Sprite::Sprite"
+C:\Engine\Engine\src\Render\Sprite.cpp(9,26): error C2572: Render::Sprite::Sprite: переопределение аргумента по умолчанию: параметр 3
+C:\Engine\Engine\src\Render\Sprite.h(19): message : см. объявление "Render::Sprite::Sprite"
+  ResourseManager.cpp
+  main.cpp
+  Создание кода...

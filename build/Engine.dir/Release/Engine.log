@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Engine/Engine/CMakeLists.txt
+  main.cpp
+  ShaderCreate.cpp
+  ResourseManager.cpp
+  TextureCreate.cpp
+  Создание кода...
+  Engine.vcxproj -> C:\Engine\Engine\build\bin\Release\Engine.exe

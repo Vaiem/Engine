@@ -1,0 +1,8 @@
+C:/Engine/Engine/build/CMakeFiles/Engine.dir
+C:/Engine/Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Engine/Engine/build/CMakeFiles/ZERO_CHECK.dir
+C:/Engine/Engine/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Engine/Engine/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Engine/Engine/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Engine/Engine/build/external/glad/CMakeFiles/glad.dir
+C:/Engine/Engine/build/external/glad/CMakeFiles/ALL_BUILD.dir
